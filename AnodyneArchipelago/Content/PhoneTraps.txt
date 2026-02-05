@@ -53,3 +53,5 @@ James: Hello.^ I'm James.^ James the Bear.^\nI heard someone talk about somethin
 Olive: Hi, I'm Olive the rabbit.^\nI love cereal so much!^\nSo much it's gonna make me act unwise!^\nNobody can stop me once I finished all of my cereal!
 
 Sage: Hello Young.^\nIt's me Sage.^\nI just spent my remaining hint points and all I got was information about a trap item.^\nHow do I get more hint points?^\nI can't continue with my game!
+
+Thorax: I am the Thorax, I speak for the bees.^\nIf you mess with the bees, I break your knees.
